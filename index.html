@@ -213,10 +213,21 @@ a[href*="#home"]::before {
 }
 a[href*="#about"]::before {
   content: "\f129" !important;
-}
-a[href*="#events"]::before {
-  content: "\f073" !important;
-}
+}    
+
+a.challenge::before {
+        content: "\f091" !important;
+}    
+
+a.day::before {
+        content: "\f073" !important;
+}    
+
+a.status::before {
+        content: "\f05a" !important;
+}    
+
+    
 a[href*="#events"]::before {
   content: "\f073" !important;
 }
@@ -238,18 +249,15 @@ a[href*="#books"]::before {
 a[href*="#art"]::before {
   content: "\f1fc" !important;
 }
-a[href*="#awards"]::before {
-  content: "\f02e" !important;
+a.tribal::before {
+  content: "\f24e" !important;
 }
 a[href*="#services"]::before {
   content: "\f013" !important;
 }
+
 a[href*="#contact"]::before {
   content: "\f086" !important;
-}
-a[href*="#followme"]::before {
-  content: "\f099" !important;
-  color: #0084b4;
 }
 /*-------------------------------*/
 /*       Hamburger-Cross         */
@@ -406,15 +414,28 @@ h1,h2,h3 {
        <li><a href="#home">Home</a></li>
        <li><a href="#tribes">Tribes</a></li>
        <li class="dropdown">
-       <a href = "#" class="dropdown-toggle"  data-toggle="dropdown">
+       <a href = "#" class="dropdown-toggle day"  data-toggle="dropdown">
            Day 1 <span class="caret"></span></a>
      <ul class="dropdown-menu animated fadeInLeft" role="menu">
       <!--<div class="dropdown-header">Day 1</div>-->
       <li><a href="#day1">Events</a></li>
-      <li><a href="#day1-status"">Status</a></li>
-      <!-- <li><a href="#awards">Tribal Council</a></li> -->
+      <li><a href="#day1-status" class = "status">Status</a></li>
       </ul>
       </li>
+         
+         <li class="dropdown">
+       <a href = "#" class="dropdown-toggle day"  data-toggle="dropdown">
+           Day 3 <span class="caret"></span></a>
+     <ul class="dropdown-menu animated fadeInLeft" role="menu">
+      <!--<div class="dropdown-header">Day 1</div>-->
+      <li><a href="#day3" class = "challenge">Immunity Challenge</a></li>
+      <li><a href="#day3-status" class = "status">Status</a></li>
+      <li><a class = "tribal" href="#day3-tribal">Tribal Council</a></li>
+      </ul>
+      </li>
+         
+         
+         <!-- <li><a href="#awards">Tribal Council</a></li> -->
       
       </ul>
   </nav>
@@ -433,6 +454,7 @@ h1,h2,h3 {
                         <script src = 'writeDay.js'></script>  
                         <script src = 'tribes.js'></script>  
                         <script src = 'day1.js'></script>
+                        <script src = 'day3.js'></script>
                 
                         
                         
