@@ -28,6 +28,36 @@ Short recap:
 With so many targets, it is bound to be a crazy tribal council.
 Alright, it is time to vote.</p>
 
+<h3> The Votes </h3>
+
+<p>If anybody has a hidden immunity idol and you want to play it, now would be the time to do so.</p>
+
+<p>Ok. I'll read the votes</p>
+
+<p>First vote.....Tony</p>
+
+<p>Scot</p>
+
+<p>Tai</p>
+
+<p>Scot. That's two votes Scot, one vote Tai, one vote Tony.</p>
+
+<p>Tony. We're tied two votes Scot, two votes Tony, one vote Tai.</p>
+
+<p>Tai. We have a three way tie. Two votes Tony, two votes Scot, two votes Tai.</p>
+
+<p>Tony.</p>
+
+<p>Tai. We're tied again. Three votes Tony, three votes Tai, one vote Scot.</p>
+
+<p>Tai.</p>
+
+<p>First person voted out of Survivor: Dream All Stars...... Tai. </p>
+
+<h3> Summary </h3>
+
+<img src = "imgs/votes-day-3.png"></img>
+
 `;
 
 
