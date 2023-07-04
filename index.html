@@ -411,14 +411,14 @@ h1,h2,h3 {
            <a href="#">
            <img width = "100%" height = "100%" src = "https://griffin-communications.akamaized.net/formerKotv/custom/survivor/17/survivor-logo-orange.svg"</img>
            </a></div></div>
-       <li><a href="#home">Home</a></li>
-       <li><a href="#tribes">Tribes</a></li>
+       <li><a id = "menu-home" href="#home">Home</a></li>
+       <li><a id = "menu-tribes" a href="#tribes">Tribes</a></li>
        <li class="dropdown">
        <a href = "#" class="dropdown-toggle day"  data-toggle="dropdown">
            Day 1 <span class="caret"></span></a>
      <ul class="dropdown-menu animated fadeInLeft" role="menu">
       <!--<div class="dropdown-header">Day 1</div>-->
-      <li><a href="#day1">Events</a></li>
+      <li><a id = "menu-day1" href="#day1">Events</a></li>
       <li><a href="#day1-status" class = "status">Status</a></li>
       </ul>
       </li>
@@ -429,7 +429,7 @@ h1,h2,h3 {
      <ul class="dropdown-menu animated fadeInLeft" role="menu">
       <!--<div class="dropdown-header">Day 1</div>-->
       <li><a href="#day3" class = "challenge">Immunity Challenge</a></li>
-      <li><a href="#day3-status" class = "status">Status</a></li>
+      <li><a id = "menu-day3" a href="#day3-status" class = "status">Status</a></li>
       <li><a class = "tribal" href="#day3-tribal">Tribal Council</a></li>
       </ul>
       </li>
@@ -507,12 +507,57 @@ $(document).ready(function () {
     $('.hamburger').click();
     
     
-    $('nav li').click(function() {
+    function changeBackground($e1) {
         $('nav li').css("backgroundColor", "black");
-        $(this).css("backgroundColor", "rgba(139, 0, 0, 0.6)");    
+        $e1.css("backgroundColor", "rgba(139, 0, 0, 0.6)");    
+    }
+    
+    $('nav li').click(function() {
+        changeBackground($(this));
     });
+   
+   
+  // returns true if element is in view
+  function isVisible($el) {
+    var winTop = $(window).scrollTop();
+    var winBottom = winTop + $(window).height();
+    var elTop = $el.offset().top;
+    var elBottom = elTop + $el.height();
+   return ((elBottom<= winBottom) && (elTop >= winTop));
+}
+
+
+$(window).scroll(function() {
+
+    let elements = $('*').filter(function() {
+        return this.id.match(/^day[0-9]+$/);
+    })
+
+    
+    check = ['home', 'tribes'];
+    
+    
+    for (c of check) {
+        if (isVisible($('#' + c))) {
+            //alert(c + ' is visible');
+            changeBackground($('#menu-'+c).parent());     
+            return;
+        }
+    }
+   
+    for (el of elements) {
+
+        if (isVisible($('#' + el.id))) {
+            changeBackground($('#menu-' + el.id).parent().parent().parent());
+            return;
+        }
+    }
+  });
     
 });
+
+
+    
 //# sourceURL=pen.js
     </script>
 
