@@ -56,7 +56,20 @@ Alright, it is time to vote.</p>
 
 <h3> Summary </h3>
 
+<p>
 <img src = "imgs/votes-day-3.png"></img>
+</p></br>
+
+<h2 id = 'day3-status2'>Status </h2>
+
+<h3>Kalokalo</h3>
+
+<p>After getting back from tribal council, Tony and Ben are super happy that there plan worked, and that they now have Jason, Scot, and Spencer on their side. They went from the bottom to in the majority alliance - now all they have to do is stick together and pick off everybody else one by one. Christian, Zeke, Devon, and Aubry were blindsided by the last vote and they are now on the bottom. However, Zeke is willing to vote with the majority alliance at any time. He likes to play this game hard, and he is willing to do whatever it takes to get out of the minority. Zeke immediately starts talking to other alliance, and Christian, Devon and Aubry realize that he is not going to work with them moving forward. After Spencer flipped, he feels good about his position in the game. He wants to work with Tony, Ben, Jason, and Scot as meat sheilds. That way he won't be targeted as much. However, he is willing to flip at any time.</p>
+
+<h3>Taleitaki Recap</h3>
+
+<p>Taleitaki didn't go to tribal and nothing changed, so this will be a short recap.
+On Taleitaki, Domenick found the legacy advantage, granting him safety at either the final 12 or final 6. His plan is to work more on his social game this time around, and makes a strong alliance with Brad. Meanwhile, Cirie, Michaela and Cydney formed a strong trio. Adam got paranoid and started to get a majority of everybody from Millennials vs Gen X. However, Michaela does not want to work with Jay (who is in the alliance) after he blindsided her last time, and David and Hannah don't trust Adam and plan to flip on him. However, Adam and Jay have a strong bond, and want to work with each other for the rest of the game.</p>
 
 `;
 
