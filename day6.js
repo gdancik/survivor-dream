@@ -15,7 +15,12 @@ mystring =  `
 <p>With a ton more crazy things happening, this is going to be another crazy tribal.</p>
 
 
+
 <h2 id = "day6-tribal"> Tribal Council </h2>
+
+<h3> Recap </h3>
+
+<p>Devon, Christian, Zeke, and Aubry were in the minority, planning to vote for Tony and hope something happened. However, Zeke talked to the majority and tried to throw Aubry under the bus. Meanwhile, Aubry was forming a bond with Spencer to try to get him to flip. Ben, Tony, Jason, and Scot realized Spencer was gone for a long time and were considering changing the vote to him. Then, Devon and Christian got paranoid and thought that either Zeke told the majority their plan or threw them under the bus. So they thought about flipping to vote out Ben or Zeke.</p>
 
 <h3> Summary </h3>
 
