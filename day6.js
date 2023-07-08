@@ -72,7 +72,35 @@ mystring =  `
 
 <h2 id = "day6-tribal"> Tribal Council </h2>
 
-<h3> Recap </h3>
+<p> I'll go tally the votes. If anyone has a hidden immunity idol and you want to play it, now would be the time to do so. </p>
+
+<p> Alright, I'll read the votes. </p>
+
+<p> First vote...Tony. </p>
+
+<p> Tony. That's two votes Tony. </p>
+
+<p> Jason. </p>
+
+<p> Jason. That's two votes Tony, two votes Jason. </p>
+
+<p> Hannah. That's two votes Tony, two votes Jason, one vote Hannah, one vote left. </p>
+
+<p> Hannah. We're tied. </p>
+
+<p> This season has a twist: instead of the usual revote, we will go straight to rocks (because I'm too lazy to make a revote poll lol.) Per the rules of Survivor, if the vote is a deadlock, we draw rocks. Tony, Jason, and Hannah now become safe. Cire, Aubry, and Spencer must now draw rocks. Two of the rocks are white, one is black. Whoever draws the black rock is eliminated from the game. </p>
+
+<p> Alright, everybody reveal. </p>
+
+<p> The person who draws the black rock is........ </p> </br></br></br></br></br></br></br></br></br>
+
+<p>Spencer.</p>
+<p>Spencer, tonight I think it is more appropriate tonight to say that the game has spoken.</p>
+
+
+<p>
+<img src = "imgs/votes-day-6.png"></img>
+</p></br>
 
 
 `;
