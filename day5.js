@@ -53,12 +53,6 @@ mystring =  `
 <img src = "imgs/votes-day-5.png"></img>
 </p></br>
 
-
-
-<h2 id = 'day5-status2'>Status </h2>
-
-
-
 `;
 
 

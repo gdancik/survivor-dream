@@ -62,7 +62,13 @@ mystring =  `
 
 <h2 id = "day6-immunity">Immunity Challenge </h2>
 
+<p>Kalokalo and Yavusa Tolu have won immunity, so Taleitaki is going to tribal!</p>
+
+
 <h2 id = "day6-status-2"> Status</h2>
+
+<p>Taleitaki is sad to go to tribal, since they are pretty close and don’t want to vote anyone out. However, the four Kalokalos decide to just vote out Cirie since she is weaker in challenges. However, Cirie knows she is being targeted, and since last time she got eliminated since she didn’t have an advantage, she decides to go on an idol hunt. It doesn’t take long for everybody to realize what she is doing, and suddenly the majority gets worried and everybody starts looking for idols! It goes for hours of everybody scrambling, but eventually… Spencer finds it! He tells Aubry, and they both are super happy! They could potentially flip the game now, since they never really wanted to work with Jason and Tony anyways. Eventually everybody stops looking for idols, and Cirie and Hannah are really worried, but Aubry and Spencer come with them to the plan to flip on Jason and Tony. Tony and Jason still want to vote Cirie, but want to split it between Cirie and Hannah in case one of them has an idol. Spencer and Aubry are the swing vote here, and their decision could change the rest of the game. </p>
+
 
 <h2 id = "day6-tribal"> Tribal Council </h2>
 
