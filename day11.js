@@ -24,6 +24,28 @@ mystring =  `
 
 <h3> Results </h3>
 
+<p> If anybody has a hidden immunity idol and you want to play it, now would be the time to do so. </p>
+
+
+
+<p> Adam: Wait a minute Jeff...I found this a few days ago and I have a feeling that they are going to vote me out tonight. </p>
+
+<p> This is a hidden immunity idol. Any votes cast against Adam will not count. I'll read the votes. </p>
+
+<p> First vote....Adam. Does not count. </p>
+
+<p> Adam. Does not count. </p>
+
+<p> Adam. Does not count. </p>
+
+<p> Cydney </p>
+
+<p> Sixth person voted out of Survivor....Cydney. </p>
+
+
+<p>
+<img src = "imgs/votes-day-11.png"></img>
+</p></br>
 
 `;
 
