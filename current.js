@@ -11,7 +11,7 @@ mystring =  `
 <li> Zeke </li>
 </ol>
 
-<h2> Tribe swap on day 6 </h2>
+<h2> Tribe Swap On Day 6 </h2>
 
 <p> Current status: </p>
 
@@ -44,7 +44,34 @@ mystring =  `
     <li>Christian Hubicki</li>
 </ol>
 
+</br>
 
+<h2> Tribe Swap on Day 12 </h2>
+
+<h3>KALOKALO</h3>
+<ol>
+    <li>Michaela</li>
+    <li>Cirie</li>
+    <li>Jason</li>
+   <li> Jay</li>
+    <li>David</li>
+</ol>
+
+<h3>TALEITAKI</h3>
+<ol>
+   <li> Ozzy</li>
+    <li>Brad</li>
+    <li>Adam</li>
+    <li>Hannah</li>
+    <li>Domenick</li>
+</ol>
+<h3>Yavusa Tolu</h3>
+<ol>
+    <li>Aubry</li>
+    <li>Ben</li>
+    <li>Devon</li>
+    <li>Christian</li>
+</ol>
 
 `;
 
