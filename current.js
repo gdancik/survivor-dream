@@ -69,7 +69,7 @@ mystring =  `
 <ol>
     <li>Aubry</li>
     <li>Ben</li>
-    <li>Devon</li>
+    <li><del>Devon</del></li>
     <li>Christian</li>
 </ol>
 
