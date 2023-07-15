@@ -68,7 +68,7 @@ mystring =  `
 <h3>Yavusa Tolu</h3>
 <ol>
     <li>Aubry</li>
-    <li>Ben</li>
+    <li><del>Ben</del></li>
     <li><del>Devon</del></li>
     <li>Christian</li>
 </ol>
