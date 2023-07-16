@@ -33,6 +33,9 @@ Out of the eight people voted out pre-merge, seven of them were from Kalokalo. T
 
 <h2 id = "day16-immunity">Immunity Challenge </h2>
 
+<p>Welcome to your first individual immunity challenge! Tribal immunity is no more. Now you will be playing for yourself.</p>
+
+<p>Alright, let's get to it. This challenge is called Uncomfortably Numb. You must balance your feet on a very narrow perch attached to a pole, while grasping two handles located behind you and above your head. If at any point you let go of the handles, or a foot comes off the perch, you are out of the challenge. Last person standing wins immunity, safe from the vote. Aubry and Jason, you have competed in this challenge before, in Survivor: Kaoh Rong. Both of you lost, maybe you can change that this time. </p>
 
 <h2 id = "day16-tribal"> Tribal Council </h2>
 
