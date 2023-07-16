@@ -3,6 +3,8 @@ mystring =  `
 
 <h1 id = "current">Current Status </h1>
 
+<!----
+
 <h2> Before tribe swap</h2>
 
 <p> The castaways eliminated are: </p>
@@ -72,6 +74,25 @@ mystring =  `
     <li><del>Devon</del></li>
     <li>Christian</li>
 </ol>
+
+-------->
+
+<h2> The Merge </h2>
+<ol>
+   <li> Michaela </li>
+<li>    Cirie</li>
+    <li>Jason</li>
+    <li>Jay</li>
+    <li>David</li>
+    <li>Ozzy</li>
+    <li>Brad</li>
+    <li>Adam</li>
+    <li>Hannah</li>
+    <li>Domenick</li>
+    <li>Aubry</li>
+    <li>Christian</li>
+</ol>
+
 
 `;
 
