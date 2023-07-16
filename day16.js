@@ -37,6 +37,18 @@ Out of the eight people voted out pre-merge, seven of them were from Kalokalo. T
 
 <p>Alright, let's get to it. This challenge is called Uncomfortably Numb. You must balance your feet on a very narrow perch attached to a pole, while grasping two handles located behind you and above your head. If at any point you let go of the handles, or a foot comes off the perch, you are out of the challenge. Last person standing wins immunity, safe from the vote. Aubry and Jason, you have competed in this challenge before, in Survivor: Kaoh Rong. Both of you lost, maybe you can change that this time. </p>
 
+
+<p>Brad has won immunity!</p>
+
+<h3 id = "day16-status2">  STATUS </h3>
+
+<p>On the tribe, the trio of Domenick, Brad and Ozzy, wants to keep the vote simple and vote out a Kalokalo, splitting the votes between Christian and Aubry. Christian and Aubry realize this, so they both go to work. Aubry goes to try to flip the target and Christian goes to find an idol. Aubry tries to convince Domenick that people will be coming after them, and if they stick with Aubry and Christian, they will save them. Her proposal is to vote out Jason, who she throws under the bus for targeting them, even though he wasn't. Domenick isn't opposed to the idea, but he is still not sure where he stands. He tells his alliance the idea, but Ozzy is against it and just wants to make it an easy vote. So he goes to tell Jason, and Jason gets mad at Domenick and Aubry. So he talks to the other Taleitakis (besides Domenick) and proposes a plan to split the vote between Aubry and Domenick. </p>
+
+<p>Meanwhile, Adam is still very paranoid, but feels a bit better with all the chaos going on. He wants to keep the vote simple - but not based on tribe divisions. He doesn't trust the old Taleitaki for a second, and instead wants to take out the biggest challenge threat, Ozzy. They pull in Michaela, Cirie, and Aubry to get the numbers and get the plan to work. After hearing this, Aubry goes back to Domenick and tells him to consider flipping on Ozzy, since he is a challenge threat and also making really dumb moves. Domenick realizes that Ozzy is shooting himself in the foot - and also shooting Domenick in the foot, so he considers the move. Meanwhile, Hannah, David and Jay get together to discuss blindsiding Adam. However, Hannah and David don't realize Jay is with Adam, so Jay goes to tell Adam, who then wants to split the votes between Hannah and David, since he thinks they wouldn't make a dumb move like telling Jay unless one of them has an idol. Hannah and David realize their dumb mistake and now think that Adam is probably paranoid and looking for an idol, so they instead decide to flip the votes between Jay and Adam, and pull in Cirie and Michaela also. Meanwhile, Christian has found the idol! Michaela and Cirie have a ton of options that might determine who goes home! </p>
+
+<p>With an idol, a legacy advantage, and tons of targets, it is bound to be a crazy tribal!</p>
+
+
 <h2 id = "day16-tribal"> Tribal Council </h2>
 
 <h3> Results </h3>
