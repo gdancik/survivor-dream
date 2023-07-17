@@ -53,6 +53,49 @@ Out of the eight people voted out pre-merge, seven of them were from Kalokalo. T
 
 <h3> Results </h3>
 
+<p> I'll go tally the votes. </p>
+<p> If anybody has a hidden immunity idol and you want to play it, now would be the time to do so. </p>
+
+
+<p></p>
+
+
+<p> Alright, I'll read the votes. </p>
+
+<p> First vote...Hannah </p>
+
+<p> David. </p>
+
+<p> Aubry. </p>
+
+<p> Adam. </p>
+
+<p> Ozzy. </p>
+
+<p> Aubry. That's two votes Aubry. </p>
+
+<p> Aubry. That's three votes Aubry, one vote Ozzy, one vote Adam, one vote David, and one vote Hannah. </p>
+
+<p> Adam. </p>
+
+<p> Adam. That's three votes Adam, three votes Aubry, one vote Ozzy, one vote David, and one vote Hannah. </p>
+
+<p> Ozzy. </p>
+
+<p> Ozzy. That's three votes Ozzy, three votes Adam, three votes Aubry, one vote David, one vote Hannah, one vote left. </p>
+
+<p> Ninth person voted out of Survivor: Dream All Stars and second member of the jury...... </p>
+
+
+</br></br>
+
+
+<p> Ozzy. </p>
+
+
+<p>
+<img src = "imgs/votes-day-16.png"></img>
+</p></br>
 
 `;
 
