@@ -81,7 +81,7 @@ mystring =  `
 <ol>
    <li> Michaela </li>
 <li>    Cirie</li>
-    <li>Jason</li>
+    <li><del>Jason</del></li>
     <li>Jay</li>
     <li>David</li>
     <li>Ozzy</li>
