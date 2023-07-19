@@ -79,7 +79,7 @@ mystring =  `
 
 <h2> The Merge </h2>
 <ol>
-   <li> Michaela </li>
+   <li> <del>Michaela</del> </li>
 <li>    Cirie</li>
     <li><del>Jason</del></li>
     <li>Jay</li>
@@ -89,7 +89,7 @@ mystring =  `
     <li>Adam</li>
     <li>Hannah</li>
     <li>Domenick</li>
-    <li>Aubry</li>
+    <li><del>Aubry</del></li>
     <li>Christian</li>
 </ol>
 
