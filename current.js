@@ -82,7 +82,7 @@ mystring =  `
    <li> <del>Michaela</del> </li>
 <li>    Cirie</li>
     <li><del>Jason</del></li>
-    <li>Jay</li>
+    <li><del>Jay</del></li>
     <li>David</li>
     <li><del>Ozzy</del></li>
     <li>Brad</li>
