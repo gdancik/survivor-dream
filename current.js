@@ -80,7 +80,7 @@ mystring =  `
 <h2> The Merge </h2>
 <ol>
    <li> <del>Michaela</del> </li>
-<li>    Cirie</li>
+<li>    <del>Cirie</del></li>
     <li><del>Jason</del></li>
     <li><del>Jay</del></li>
     <li>David</li>
