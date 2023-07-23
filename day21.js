@@ -51,11 +51,17 @@ mystring =  `
 <p> Alright, let's get to todays immunity challenge. This immunity challenge is called This Much. You must support two discs with ceramic pots attached to two posts with your fingertips. If you drop your discs, you are out of the challenge. Last person standing wins.
 This challenge was famously used in Survivor: Kaoh Rong, when Aubry and Jason had an epic showdown.</p>
 
+<p> Adam has won immunity! </p>
+
+<h2 id = "day21-status2"> Tribe Status </h2>
+
+<p>  After Adam has won immunity again, Hannah and David are bummed since they still need to get out Adam. So, they flip their plan to get out either Domenick or Christian, as they are both big threats. They eventually settle on Domenick, as he is the bigger threat. But, Domenick has an idol and knows that he has to use it on somebody else. He knows at least three people are voting for Hannah, since Adam is still trying to get him out. So, he wants to use the idol on Hannah. However, the problem is if he doesn't convince Hannah and David to flip to vote Christian, he would idol himself out. </p>
+
+<p>This vote will come down to if Hannah and David flip, or if Domenick plays the idol or not.</p>
 
 <h2 id = "day21-tribal"> Tribal Council </h2>
 
 <h3> Results </h3>
-
 
 
 `;
