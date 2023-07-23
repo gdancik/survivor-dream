@@ -63,6 +63,32 @@ This challenge was famously used in Survivor: Kaoh Rong, when Aubry and Jason ha
 
 <h3> Results </h3>
 
+<p> I'll go tally the votes. </p>
+
+<p> If anyone has a hidden immunity idol and you want to play it, now would be the time to do so. </p>
+
+<p> Domenick: Wait a second Jeff. I have a immunity idol here that comes with a twist. It says that you have to play it for someone else. So, I'm playing this for Hannah. Hopefully she voted for who I told her too, or else this could backfire. </p>
+
+<p> This is a hidden immunity idol. Any votes cast for Hannah will not count. </p>
+
+<p> I'll read the votes. </p>
+
+<p> First vote...Hannah. Does not count. </p>
+
+<p> Hannah. Does not count. </p>
+
+<p> Domenick. </p>
+
+<p> Christian. </p>
+
+<p> Christian. That's two votes Christian, one vote Domenick. </p>
+
+<p> Fifteenth person voted out of Survivor and eigth member of the jury....Christian. </p>
+
+<p>
+<img src = "imgs/votes-day-21.png"></img>
+</p></br>
+
 
 `;
 

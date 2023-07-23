@@ -90,7 +90,7 @@ mystring =  `
     <li>Hannah</li>
     <li>Domenick</li>
     <li><del>Aubry</del></li>
-    <li>Christian</li>
+    <li><del>Christian</del></li>
 </ol>
 
 
