@@ -39,12 +39,17 @@ mystring =  `
     <li>Adam</li>
 </ol>
 
+<p>Team two has won reward and chosen Christian and Hannah to join them!</p>
 
+
+<h3 id = "day21-status">  Status (Ghost Island) </h3>
+
+<p>Domenick is bummed that he was not join, but when he gets back he gets a message to tell him to come to a boat and go to Ghost Island. When he gets to Ghost Island, he sees a scrolled up note for him. It says: Domenick, it your first season you lost because you didn't have as good as a social game. When there was a tie at the final tribal council, Laurel voted for Wendell to win as she had a closer relationship with him. So, this is a hidden immunity idol, but it comes with a twist. You must use this idol on someone else. Not only would a successful idol play on someone else get them your vote if they get voted out later on anyways, but you can also argue your social game better at the FTC.</p>
 
 <h2 id = "day21-immunity">Immunity Challenge </h2>
 
-
-<h3 id = "day21-status">  Tribe Status </h3>
+<p> Alright, let's get to todays immunity challenge. This immunity challenge is called This Much. You must support two discs with ceramic pots attached to two posts with your fingertips. If you drop your discs, you are out of the challenge. Last person standing wins.
+This challenge was famously used in Survivor: Kaoh Rong, when Aubry and Jason had an epic showdown.</p>
 
 
 <h2 id = "day21-tribal"> Tribal Council </h2>
