@@ -19,8 +19,17 @@ This challenge was the iconic final immunity challenge of Survivor: Heroes vs He
 
 <h2 id = "day24-tribal"> Tribal Council </h2>
 
-<h3> Results </h3>
 
+<p>Alright, Hannah, who are you going to bring to the final three?</p>
+
+<p>Hannah: It's a difficult decision Jeff, but I am going to bring David.</p>
+
+<p>Alright. Domenick and Adam will face off in fire. </p>
+
+<h3> Results </h3>
+ 
+<p>Adam has won fire making! Well Domenick, you played a great game but its time for you to go.
+Alright. The final three. But, you guys aren't going to final tribal council just yet. If you haven't caught on yet, this season will have a final two. See you tomorrow for your final immunity challenge. </p>
 `;
 
 
