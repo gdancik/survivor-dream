@@ -83,11 +83,11 @@ mystring =  `
 <li>    <del>Cirie</del></li>
     <li><del>Jason</del></li>
     <li><del>Jay</del></li>
-    <li>David</li>
+    <li><del>David</del></li>
     <li><del>Ozzy</del></li>
     <li><del>Brad</del></li>
     <li>Adam</li>
-    <li>Hannah</li>
+    <li><del>Hannah</del></li>
     <li><del>Domenick</del></li>
     <li><del>Aubry</del></li>
     <li><del>Christian</del></li>
